@@ -1,1 +1,2 @@
-whyour/qinglong:latest
+--platform=linux/arm/v7 herberthe0229/iptv-sources
+
