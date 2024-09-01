@@ -1,1 +1,1 @@
---platform=linux/arm/v7 mysql:latest
+mysql:latest
