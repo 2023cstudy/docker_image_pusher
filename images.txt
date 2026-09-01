@@ -1,1 +1,1 @@
-mysql:latest
+ghcr.io/astral-sh/uv:latest
